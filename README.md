@@ -8,4 +8,4 @@ Features:
 To run the program:
 - Clone the repository
 - Compile the java files if needed
-- Run the file!
+- Run the program!
